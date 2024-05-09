@@ -1,4 +1,3 @@
-Introduction:
 This Java program manages student records through user input. It allows users to add, display, search, update, and delete student records using methods defined in the UserInput and MainFinal classes.
 
 UserInput class:
